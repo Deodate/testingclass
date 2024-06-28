@@ -1,2 +1,2 @@
-# testingclass
+# JUnit 4 TEST 
 THIS UNIT TEST CLASS #JAVA # HIBERNATE 
